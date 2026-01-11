@@ -1,7 +1,8 @@
 # 📚 Library Management System (OOPS Project)
 
 ## 👥 Project Group
-**Group Name:** Saumya² Library System
+**Group Name:** Saumya²
+**Project Name:**Library System
 **Members:**  
 - Saumya  Singh
 - Saumya  Jaiswal
