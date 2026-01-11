@@ -3,8 +3,8 @@
 ## 👥 Project Group
 **Group Name:** Saumya² Library Systems  
 **Members:**  
-- Saumya  
-- Saumya  
+- Saumya Singh
+- Saumya Jaiswal
 
 ---
 
